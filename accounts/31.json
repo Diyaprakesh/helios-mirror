@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "galvanic-circle-352012",
+  "private_key_id": "14bb8152c81f9a6ba26d3c3a0acd7a1f2aadad3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsCt4mInrBdjcy\n+LGcTLRfZDlNNUDhI2y1GTQTBUwqz8z6bFoWynrZR+5QpDgYHn+ln3NqAP6g+Oyo\nrme5lgnBCdCsxtgZlHVvVsM3xBnQOohQ9Cu4OGJvv3tauehZP3945RnyaIm/v5Bq\nv01AO/Ralxk9AopnA8aZluDs6QjMgI4coClcE+GRxgm6pCLZ9hfc4/lTor4iFTXh\nA0C7dm93QMwXwaC9Ix6lImrmZ2jsk0lYaj/nQ7TFziRSgQ85qYB1Ot7FzfjnMQew\nLJh8asi2iG3QqUG1oG7dNDyjVslov9/NLYNJ0TyFNrH15pzIwSLr6XGnf31eI9gK\n29KRF6RXAgMBAAECgf9eeq/aEANebGKTFuVBj/2ZIeggGVJUSGEb86uemYtKWlGg\npRYyo9KhzMGcY6lCE1m55OslTfHCH6U+/UTePLZvbhGmkcJemrHaOuQ5N018evBT\n+Y2LIg2FnTjWyU8DtCnsTqEpU88plv6+/uzgIYX/6QgrTmkImdsRzo098D4T65Wc\ncJDjDLIsxzH4d3ndFNJlxYConePMksKLqOKuppXPWLAcmr0mbnjR/KnJ10xJmi2M\nzG/bIrnNNZiTBUGSp07WMAhhz32GS7EUuHNKUk0rQxN6XmZcYsUf72GZmj2ll11T\nSRNj2SysrryBBneMs8bIJq1wRT8Mpbhr9ZoTil0CgYEA2/vRpSNE3TmZ5KBFaZqu\nvmvls/tcYTfIBHo6vNNvU+qToJgfWZjWXcVPqBFkSbLZZVXCPk1m/P7zscEMsW+J\nHuAhWTI4FOfVvtL1vUSfwMtofcxGQlzGqKwMLxs6oWeCVwAhg147N/4j8vcr4qOR\n22SA9qX5gqqD9EpuT3hvpyUCgYEAyDWv/TKwLoklITMzZ/dDe0t2WLAFaHkiwcHV\nCTOkYuzAQvWS1Rwhe9fxigqkVxrS/9Rovq4UZQ4JFWhyfJ+H9bPKvay5mV5CPovt\nc3w4xj0YPVIl6lLeItUZAuTEay5BNBJyug3XuZ7MQnLrj8azDeEVu/sVyJIdeT7U\nn4LfkssCgYEA2/hhuUycJs7baPcukZvgUn9X8PJPfNMnifqjU3/lWbc+KZ8T8ibX\nbGrJ7Vh+vQc/RYpMsrn5WtCh5EQTKjZKmfoqvqNt2tG8NZWDrt+5EzMS6H/kXaWh\n7LYldNE4fn8foVl7KX6HnsTdM64fTwCa8BP+tSRgbF2Ply76QTNACpUCgYB5udqk\nkTr5MD048E5i+b03q2vrBCplmLD/KQCDtbhOxS8oBvMdSxs4ltSuX0YIB7EeBmEg\n/eo8fsobEAP7rWsWghfUNr4pd1vDd4QJYQ+Lx/2C2v1eeL/CYdnxHnIl0Fuoc0b5\nxAzTOK9r/z8ljWO0HpP+VOyro9rzqrXPvdx8/QKBgQC6SWjm3H6pxab5uLXs5u4b\nYgXDiS5mBW2bGHzxeNmEW2i8FWGfR4tZWL6ZiNz2EYA1yZHJDHd/4rpSAv0rWPDo\nP2xAHJ5inyKQ+1idS+ApDy7O47Nlicm1QM8qzj+LeZMvQiGKfpb1d8wyh48MaA5z\ndvQubYbqolcnNs2nICiF0w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-va5fn21roemgm-utl12tjaeuks@galvanic-circle-352012.iam.gserviceaccount.com",
+  "client_id": "102573714243151760947",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-va5fn21roemgm-utl12tjaeuks%40galvanic-circle-352012.iam.gserviceaccount.com"
+}
